@@ -1,3 +1,8 @@
+## UPDATE 2024-02-23
+I was able to contribute to [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) and the application/ docker container now supports discord notifications natively! See my first PR [here](https://github.com/alexjustesen/speedtest-tracker/pull/1196) and my second [here](https://github.com/alexjustesen/speedtest-tracker/pull/1242).
+
+I will leave this repo as is but will not be maintaining it since it is now redundant.
+
 # Speedtest Tracker Discord Notifications
 
 This Python script is designed to work with [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker), which currently doesn't support Discord notifications. It allows you to send speed test results to a Discord webhook bot. You can use this script to keep track of your network's speed test results and receive notifications in your Discord server.
